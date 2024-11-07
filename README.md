@@ -1,7 +1,8 @@
 <h1># Sudoku-Solver</h1>
 
 [Live Demo](https://vish2002.github.io/Sudoku-Solver/)
-I have created a Sudoku solver Web app.
+<br>
+<p>I have created a Sudoku solver Web app.</p>
 
 <h1>I have used :</h1>
 JavaScript: Utilized for the Backtracking algorithm and interactivity.
