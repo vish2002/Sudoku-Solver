@@ -5,9 +5,12 @@
 <p>I have created a Sudoku solver Web app.</p>
 
 <h1>I have used :</h1>
-JavaScript: Utilized for the Backtracking algorithm and interactivity.
-HTML: Used for structuring the web page.
-CSS: Provides styling to create an appealing user interface.
+
+<ul>
+<li>JavaScript: Utilized for the Backtracking algorithm and interactivity.</li>
+<li>HTML: Used for structuring the web page.</li>
+<li>CSS: Provides styling to create an appealing user interface.</li>
+</ul>
 
 <h1>Basic Rules:</h1>
 Each row must contain all the numbers from 1 to 9, with no repetition.
